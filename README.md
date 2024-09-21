@@ -13,7 +13,7 @@ Table of Contents:
 ## Links
 
 - Website/Frontend: <To Be Confirmed>
-  - Backend: <To Be Confirmed>
+  - Backend: <https://counter-press-backend.onrender.com/api>
 - Repositories:
   - General: <https://github.com/difasulthon/counter-press-store>
   - Backend: <https://github.com/difasulthon/counter-press-backend>
