@@ -1,6 +1,6 @@
 # counter-press-store
 
-[Counter Press](https://amazingsafari.haidar.dev) online store for football shoes product
+[Counter Press](https://counter-press.vercel.app/) online store for football shoes product
 
 Table of Contents:
 
@@ -12,7 +12,7 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <To Be Confirmed>
+- Website/Frontend: <https://counter-press.vercel.app/>
   - Backend: <https://counter-press-backend.onrender.com/api>
 - Repositories:
   - General: <https://github.com/difasulthon/counter-press-store>
