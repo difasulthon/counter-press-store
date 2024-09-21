@@ -12,12 +12,12 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <https://amazingsafari.haidar.dev>
-  - Backend: <https://amazingsafari-backend.haidar.dev>
+- Website/Frontend: <To Be Confirmed>
+  - Backend: <To Be Confirmed>
 - Repositories:
-  - General: <https://github.com/mhaidarhanif/amazingsafari>
-  - Backend: <https://github.com/mhaidarhanif/amazingsafari-backend>
-  - Frontend: <https://github.com/mhaidarhanif/amazingsafari-frontend>
+  - General: <https://github.com/difasulthon/counter-press-store>
+  - Backend: <https://github.com/difasulthon/counter-press-backend>
+  - Frontend: <https://github.com/difasulthon/counter-press-frontend>
 
 Inspirations:
 
