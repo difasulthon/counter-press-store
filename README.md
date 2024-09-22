@@ -13,7 +13,7 @@ Table of Contents:
 ## Links
 
 - Website/Frontend: <https://counter-press.vercel.app/>
-  - Backend: <https://counter-press-backend.onrender.com/api>
+  - Backend: <https://www.counter-press-backend.difasulthon.com/api>
 - Repositories:
   - General: <https://github.com/difasulthon/counter-press-store>
   - Backend: <https://github.com/difasulthon/counter-press-backend>
@@ -67,10 +67,10 @@ Inspirations:
 - Local: `http://localhost:3000`
 
 | Endpoint         | HTTP     | Description               |
-| ---------------- | -------- | ------------------------- |
+| ---------------- | -------- | ------------------------- | --- |
 | `/products`      | `GET`    | Get all products          |
 | `/products/:id`  | `GET`    | Get product by id         |
-| `/products/seed` | `POST`   | Seed all initial products |
+| `/products/seed` | `POST`   | Seed all initial products | ,   |
 | `/products`      | `POST`   | Add new product           |
 | `/products`      | `DELETE` | Delete all products       |
 | `/products/:id`  | `DELETE` | Delete product by id      |
