@@ -63,7 +63,7 @@ Inspirations:
 
 ## REST API Endpoints
 
-- Production: `https://amazingsafari.haidar.dev`
+- Production: `https://counter-press-backend.onrender.com/api`
 - Local: `http://localhost:3000`
 
 | Endpoint         | HTTP     | Description               |
