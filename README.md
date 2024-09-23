@@ -1,6 +1,6 @@
 # counter-press-store
 
-[Counter Press](https://counter-press.vercel.app/) online store for football shoes product
+[Counter Press](https://counter-press.difasulthon.com/) online store for football shoes product
 
 Table of Contents:
 
@@ -12,7 +12,7 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <https://counter-press.vercel.app/>
+- Website/Frontend: <https://counter-press.difasulthon.com/>
   - Backend: <https://www.counter-press-backend.difasulthon.com/api>
 - Repositories:
   - General: <https://github.com/difasulthon/counter-press-store>
