@@ -55,11 +55,11 @@ Inspirations:
 
 ### Home Page
 
-<img alt="Home Page" src="./designs/home (inspiration).png" width="400" />
+<img alt="Home Page" src="./designs/home.png" width="400" />
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](./diagrams/erd.png)
+![ERD](./diagrams/diagram.png)
 
 ## REST API Endpoints
 
