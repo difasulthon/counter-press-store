@@ -12,7 +12,8 @@ Table of Contents:
 
 ## Links
 
-- Website/Frontend: <https://counter-press.difasulthon.com/>
+- Website:
+  - Frontend: <https://counter-press.difasulthon.com/>
   - Backend: <https://www.counter-press-backend.difasulthon.com/api>
 - Repositories:
   - General: <https://github.com/difasulthon/counter-press-store>
